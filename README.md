@@ -33,5 +33,5 @@
 | 000F0004  | 3840x1024   |
 
 
-Feel free to make pulls with more resolution hex value!
+# Feel free to make pulls with more resolution hex value!
 
