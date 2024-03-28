@@ -1,5 +1,5 @@
+![BICcGMK](https://github.com/lmaogoodcodenotreally/AOT2-UltraWide-Custom-rez/assets/147619006/8295da4a-e83c-4d38-a727-d7985ccc8e49)
 
-https://i.imgur.com/BICcGMK.png
 
 
 ## Welcome!
