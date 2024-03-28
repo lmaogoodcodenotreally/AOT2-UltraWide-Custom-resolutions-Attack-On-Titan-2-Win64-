@@ -9,13 +9,13 @@
 
 # Patching steps:
 
-- 1) Download any Hex Editor. (Any will work, I use HxD & HexWorkshop)
-- 2) Copy your AOT region executable to a new folder (name of exe is either: `AOT2_AS.exe`, `AOT2_EU.exe`, `AOT2_JP.exe`)
-- 3) Now open that exe into Hex editor and search for `000F7008` (`000F7008` == `3840x2160`)
-- 4) Check table below & insert your choosen resolution instead of `000F7008` (Exemple: `700DA005` == `3440x1440`)
-- 5) Make sure to create a backup of your game, now that you edited the value, make sure to save, then start the game as normal.
-- 6) In Main Menu, go to `System >> Graphics >> Resolutions`, then set it to your custom one, then set display mode to `Windowed` [!VERY IMPORTANT!] 
-- 7) Now all you have to do, is create a txt file, and inside put your resolution value (exemple: `700DA005`) so you know what to edit if you need to switch back to normal
+- Download any Hex Editor. (Any will work, I use HxD & HexWorkshop)
+- Copy your AOT region executable to a new folder (name of exe is either: `AOT2_AS.exe`, `AOT2_EU.exe`, `AOT2_JP.exe`)
+- Now open that exe into Hex editor and search for `000F7008` (`000F7008` == `3840x2160`)
+- Check table below & insert your choosen resolution instead of `000F7008` (Exemple: `700DA005` == `3440x1440`)
+- Make sure to create a backup of your game, now that you edited the value, make sure to save, then start the game as normal.
+- In Main Menu, go to `System >> Graphics >> Resolutions`, then set it to your custom one, then set display mode to `Windowed` [!VERY IMPORTANT!] 
+- Now all you have to do, is create a txt file, and inside put your resolution value (exemple: `700DA005`) so you know what to edit if you need to switch back to normal
 - HAVE FUN !
 
 
