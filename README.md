@@ -12,7 +12,7 @@
 
 
 # Patching steps:
-
+!!! IMPORTANT EDIT: For some reason you need to start in fullscreen from launcher then swap to windowed in game 
 - Download any Hex Editor. (Any will work, I use HxD & HexWorkshop)
 - Copy your AOT region executable to a new folder (name of exe is either: `AOT2_AS.exe`, `AOT2_EU.exe`, `AOT2_JP.exe`)
 - Now open that exe into Hex editor and search for `000F7008` (`000F7008` == `3840x2160`)
@@ -21,7 +21,7 @@
 - In Main Menu, go to `System >> Graphics >> Resolutions`, then set it to your custom one, then set display mode to `Windowed`
 - Now all you have to do, is create a txt file, and inside put your resolution value (exemple: `700DA005`) so you know what to edit if you need to switch back to normal
 - HAVE FUN !
-
+  
 
 
 # Resolutions
